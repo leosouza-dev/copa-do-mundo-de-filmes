@@ -43,6 +43,8 @@ Existe uma documentação criada pelo Swagger que pode ser acessada no edpoint -
 
 Obs 2: A aplicação frontend espera o endpoint **http://localhost:5000/v1/filmes**;
 
+---
+
 ### Teste
 
 #### Visual Studio
