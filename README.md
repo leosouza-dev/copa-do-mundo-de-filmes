@@ -39,9 +39,9 @@ Para sua execução:
 - Abra a pasta do projeto no terminal;
 - Execute o comando **dotnet run**;
 
-Existe uma documentação para ser acessada criada pelo Swagger - https://localhost:5001/swagger/index.html
+Existe uma documentação criada pelo Swagger que pode ser acessada no edpoint - **https://localhost:5001/swagger/index.html**
 
-Obs 2: A aplicação frontend espera o endpoint http://localhost:5000/v1/filmes ou https://localhost:5001/v1/filmes;
+Obs 2: A aplicação frontend espera o endpoint **http://localhost:5000/v1/filmes** ou **https://localhost:5001/v1/filmes**;
 
 ### Teste
 
