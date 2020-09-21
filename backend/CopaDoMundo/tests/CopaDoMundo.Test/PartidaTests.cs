@@ -23,5 +23,20 @@ namespace CopaDoMundo.Test
             // Assert
             Assert.Equal(filmeB, vencedor);
         }
+
+        [Fact]
+        public void Partida_IniciarPartida_RetornaFilmePelaOrdemAlfabetica()
+        {
+            // Arrange
+            var filmeA = new Filme { Id = "tt6499752", Titulo = "Upgrade", Ano = 2018, Nota = 7.8 };
+            var filmeB = new Filme { Id = "tt7784604", Titulo = "Hereditário", Ano = 2018, Nota = 7.8 };
+            var partida = new Partida(filmeA, filmeB);
+
+            // Act
+            var vencedor = partida.IniciarPartida();
+
+            // Assert
+            Assert.Equal(filmeB, vencedor);
+        }
     }
 }
