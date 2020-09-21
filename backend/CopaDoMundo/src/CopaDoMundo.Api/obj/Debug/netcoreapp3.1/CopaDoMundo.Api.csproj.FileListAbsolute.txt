@@ -64,7 +64,6 @@ C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\src\CopaDoMundo.Api\b
 C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\src\CopaDoMundo.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\src\CopaDoMundo.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\src\CopaDoMundo.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\src\CopaDoMundo.Api\obj\Debug\netcoreapp3.1\CopaDoMundo.Api.csprojAssemblyReference.cache
 C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\src\CopaDoMundo.Api\obj\Debug\netcoreapp3.1\CopaDoMundo.Api.AssemblyInfoInputs.cache
 C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\src\CopaDoMundo.Api\obj\Debug\netcoreapp3.1\CopaDoMundo.Api.AssemblyInfo.cs
 C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\src\CopaDoMundo.Api\obj\Debug\netcoreapp3.1\CopaDoMundo.Api.csproj.CoreCompileInputs.cache

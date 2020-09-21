@@ -43,5 +43,19 @@ namespace CopaDoMundo.Test
             Assert.Equal(filme5, camepeos[0]);
             Assert.Equal(filme1, camepeos[1]);
         }
+
+        [Fact]
+        public void Campeonato_IniciarCampeonato_LancaException()
+        {
+            // Arrange
+            var filmes = new List<Filme>();
+            var campeonato = new Campeonato(filmes);
+
+            // Act
+            Action atual = () => campeonato.IniciarCampeonato();
+
+            // Assert
+            Assert.Throws<Exception>(atual);
+        }
     }
 }
