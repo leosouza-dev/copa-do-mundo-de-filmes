@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CopaDoMundo.Api</name>
+    </assembly>
+    <members>
+        <member name="M:CopaDoMundo.Api.Controllers.FilmesController.Index">
+            <summary>
+            Listagem de FIlmes
+            </summary>
+            <returns>Lista de FIlmes</returns>
+            <response code="200">Retorna uma listagem de FIlme</response>
+            <response code="400">Retorna erro quando ocorrer algum erro no consumo da Api</response>  
+        </member>
+        <member name="M:CopaDoMundo.Api.Controllers.FilmesController.IniciaCameponato(System.Collections.Generic.IList{CopaDoMundo.Api.Domain.Models.Filme})">
+            <summary>
+            Inicia Cameponato
+            </summary>
+            <param name="filmes">Obrigatóriamente uma Lista com 8 Filmes</param>
+            <returns>Lista FIlme com o Campeão e Vice-Campeão</returns>
+            <response code="200">Retorna uma listagem com o Campeão e Vice-Campeão</response>
+            <response code="400">Retorna erro quando ocorrer algum erro no consumo da Api</response>  
+        </member>
+    </members>
+</doc>

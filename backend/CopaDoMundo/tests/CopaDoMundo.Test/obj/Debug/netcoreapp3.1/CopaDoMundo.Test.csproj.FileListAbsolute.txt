@@ -94,3 +94,14 @@ C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\tests\CopaDoMundo.Tes
 C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\tests\CopaDoMundo.Test\obj\Debug\netcoreapp3.1\CopaDoMundo.Test.dll
 C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\tests\CopaDoMundo.Test\obj\Debug\netcoreapp3.1\CopaDoMundo.Test.pdb
 C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\tests\CopaDoMundo.Test\obj\Debug\netcoreapp3.1\CopaDoMundo.Test.genruntimeconfig.cache
+C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\tests\CopaDoMundo.Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\tests\CopaDoMundo.Test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\tests\CopaDoMundo.Test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\tests\CopaDoMundo.Test\bin\Debug\netcoreapp3.1\CopaDoMundo.Api.exe
+C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\tests\CopaDoMundo.Test\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\tests\CopaDoMundo.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\tests\CopaDoMundo.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\tests\CopaDoMundo.Test\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\tests\CopaDoMundo.Test\bin\Debug\netcoreapp3.1\CopaDoMundo.Api.dll
+C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\tests\CopaDoMundo.Test\bin\Debug\netcoreapp3.1\CopaDoMundo.Api.pdb
+C:\dev\lambda3\copa-do-mundo-de-filmes\backend\CopaDoMundo\tests\CopaDoMundo.Test\bin\Debug\netcoreapp3.1\CopaDoMundo.Api.xml
