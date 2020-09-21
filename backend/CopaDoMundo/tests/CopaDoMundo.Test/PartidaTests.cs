@@ -1,7 +1,5 @@
 using CopaDoMundo.Api.Domain.Models;
 using CopaDoMundo.Api.Models;
-using System;
-using System.Collections.Generic;
 using Xunit;
 
 namespace CopaDoMundo.Test
